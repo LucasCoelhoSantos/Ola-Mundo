@@ -21,19 +21,21 @@
  Listas:
  
  Lista numerada:
- 1. Teste, 1. Teste2, 1. Teste3
+ 1. Teste
+ 1. Teste2
+ 1. Teste3
     .1 três espaços antes para criar um sub item
  
  Lista demarcada:
  * Um asteristico no começo para lista com marcadores.
-    * três espaços antes para criar um sub item
+    * Três espaços antes para criar um sub item
  - Um traço no começo para lista com marcadores.
  
  Lista de tarefas (dois colchetes):
- [] tarefa 1
- [] tarefa 2
- [x] tarefa 3
- [] tarefa 4
+ * [] tarefa 1
+ * [] tarefa 2
+ * [x] tarefa 3
+ * [] tarefa 4
  
  ---
 
