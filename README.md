@@ -14,8 +14,10 @@
  * Dois tiu entre palavras para riscar: ~~oi~~
  * É possível misturar formatações: _*oi*_
  * Para títulos: # (nível 1), ## (nível 2), ### (nível 3)...
- * 3 traços para criar uma divisória
- --- 
+ * 3 traços para criar uma divisória (---)
+ 
+ ---
+
  Listas:
  
  Lista numerada:
@@ -28,23 +30,29 @@
  - Um traço no começo para lista com marcadores.
  
  Lista de tarefas (dois colchetes):
- - [] tarefa 1
- - [] tarefa 2
- - [x] tarefa 3
- - [] tarefa 4
+ [] tarefa 1
+ [] tarefa 2
+ [x] tarefa 3
+ [] tarefa 4
+ 
  ---
+
  Inserindo Imagens (apenas pelo navegador):
  ![Nome da imagem] (link da imagem)
  
  Criando hyperlinks (entre colchetes o nome do link e entre parenteses o link):
  [Acesse meu GitHub] (https://github.com/LucasCoelhoSantos)
+ 
  ---
+
  Criando tabelas:
  CPF | Nome | Nota
  ---|---|---
  54353453 | Lucas | 10,0
  345345 | João | 9,0
+ 
  ---
+
  Para inserir comandos:
  * Inserir uma crase entre o comando `document.getElementId()`
  
@@ -57,8 +65,11 @@
     print(f'O valor {num} é ÍMPAR')
  ```
  ---
+
  Para inserir emoji: basta utilizar dois pontos e o código unicode :vulcan_salute:
+ 
  ---
+
  Citação de pessoas (responder):
  * Procurar no site a opção quote reply
  * > Está dando certo?
